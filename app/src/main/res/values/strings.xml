@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Prelim Exam</string>
     <string name="action_settings">Settings</string>
+    <string name="rb_increment">Increment</string>
+    <string name="rb_decrement">Decrement</string>
+    <string name="starting_value">0</string>
+    <string name="seek_value">100</string>
 </resources>
