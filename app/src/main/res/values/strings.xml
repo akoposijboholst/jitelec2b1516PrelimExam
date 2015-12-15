@@ -5,4 +5,6 @@
     <string name="rb_decrement">Decrement</string>
     <string name="starting_value">0</string>
     <string name="seek_value">100</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
 </resources>
